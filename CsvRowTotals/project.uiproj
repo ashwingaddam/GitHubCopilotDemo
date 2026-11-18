@@ -1,0 +1,6 @@
+{
+  "Name": "CsvRowTotals",
+  "ProjectType": "Process",
+  "Description": "Append each headerless CSV row's numeric total",
+  "MainFile": "Main.xaml"
+}
