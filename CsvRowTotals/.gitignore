@@ -1,0 +1,6 @@
+.local/
+.settings/
+bin/
+obj/
+bindings_v2.json
+entry-points.json
